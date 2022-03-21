@@ -1,2 +1,3 @@
 chromedriver_binary
+chromedriver-binary-auto
 selenium
